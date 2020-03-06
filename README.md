@@ -20,7 +20,6 @@
 * [Q&A](#qa)
 * [客户端](#客户端有r标示表示支持-ssr)
 * [教程/说明](#教程--说明)
-* [配置文件样例](#配置文件样例)
 * [鸣谢](#鸣谢)
 * [License](#license)
 
@@ -64,7 +63,7 @@ Quantumult | [@Jacky Y](https://t.me/WatanabeMayu) | [Quantumult](https://t.me/q
 ### JSBox
 
 ````
-Surge：https://xteko.com/redir?name=Rules-lhie1&url=https://raw.githubusercontent.com/Fndroid/jsbox_script/master/Rules-lhie1/.output/Rules-lhie1.box
+Surge：https://xteko.com/redir?name=Rules-lhie1&url=https://raw.githubusercontent.com/lhie1/Rules/master/JSBox/Rules-lhie1.box
 ````
 
 ---
@@ -73,11 +72,6 @@ Surge：https://xteko.com/redir?name=Rules-lhie1&url=https://raw.githubuserconte
 
 ````
 Shadowrocket：https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket/Complete.conf
-
-
-Quantumult_Filter：https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf
-
-Quantumult_Rejection：https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult_URL.conf
 ````
 
 ---
